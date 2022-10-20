@@ -8,6 +8,7 @@ RUN apt-get update
 RUN apt-get install -y make
 RUN apt-get install -y cpanminus
 RUN apt-get install -y libdatetime-format-iso8601-perl
+RUN apt-get install -y libdatetime-format-pg-perl
 RUN apt-get install -y libdatetime-format-strptime-perl
 RUN apt-get install -y libdatetime-perl
 RUN apt-get install -y libdbd-pg-perl
@@ -22,8 +23,6 @@ RUN apt-get install -y libreadonly-perl
 RUN apt-get install -y libtest-mockobject-perl
 RUN apt-get install -y libtest-nowarnings-perl
 RUN apt-get install -y libtest-output-perl
-## Sort.
-
 RUN cpanm Error::Pure
 RUN cpanm Schema::Abstract
 RUN cpanm Schema::Data
