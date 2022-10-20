@@ -5,4 +5,4 @@ build:
 build-no-cache:
 	docker build --no-cache=true -t ${IMAGE} .
 run:
-	docker run -e DB_NAME=commons.vote -e DB_USER=skim -e DB_PASS=commons.vote -v /var/run/postgresql:/var/run/postgresql -t ${IMAGE}
+	docker run -e DB_NAME=commons.vote -e DB_USER=commons.vote -e DB_PASS=commons.vote -v /var/run/postgresql:/var/run/postgresql -t ${IMAGE}
