@@ -1,3 +1,5 @@
+0.03
+
 0.02 2022-10-21T01:41:21+02:00
  - Add fixed SQL::Translator.
  - Fix db password.
