@@ -31,6 +31,7 @@ RUN cpanm App::Schema::Deploy
 RUN cpanm App::Schema::Data
 RUN mkdir /perl_modules
 COPY perl_modules/ /perl_modules
+RUN cpanm perl_modules/SQL-Translator-1.62.tar.gz
 RUN cpanm perl_modules/Data-Commons-Vote-0.01.tar.gz
 RUN cpanm perl_modules/Commons-Vote-Fetcher-0.01.tar.gz
 RUN cpanm perl_modules/Schema-Commons-Vote-0.01.tar.gz
