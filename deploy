@@ -1,0 +1,4 @@
+#!/usr/bin/sh
+
+schema-deploy -d -u ${DB_USER} dbi:Pg:dbname=${DB_NAME} Schema::Commons::Vote
+schema-data -l CWPTheme -u ${DB_USER} dbi:Pg:dbname=${DB_NAME} Schema::Data::Commons::Vote 'creator_name=Michal Josef Špaček' creator_email=michal.josef.spacek@wikimedia.cz 'creator_wm_username=Michal Josef Špaček (WMCZ)' 'theme_name=Czech Wiki Photo images' theme_shortcut=cwp
