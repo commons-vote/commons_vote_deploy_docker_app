@@ -16,6 +16,7 @@ RUN apt-get install -y libdbd-sqlite3-perl
 RUN apt-get install -y libdbi-perl
 RUN apt-get install -y libdbix-class-perl
 RUN apt-get install -y libfile-share-perl
+RUN apt-get install -y libhtml-strip-perl
 RUN apt-get install -y libio-captureoutput-perl
 RUN apt-get install -y libmediawiki-api-perl
 RUN apt-get install -y libperl6-slurp-perl
