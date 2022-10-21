@@ -1,4 +1,5 @@
 0.06
+ - Strip HTML in comment.
 
 0.05 2022-10-21T16:53:18+02:00
  - Fix development dependency for Load.
