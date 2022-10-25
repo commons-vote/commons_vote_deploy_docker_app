@@ -1,4 +1,5 @@
 0.08
+ - Add backend methods for competition validations.
  - Add DB tables for competition validations.
  - Add validation options to db.
 
