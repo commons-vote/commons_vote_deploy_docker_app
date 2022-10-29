@@ -2,9 +2,11 @@
  - Add backend methods for competition validations.
  - Add data object for competition validations.
  - Add DB tables for competition validations.
+ - Add new log types to initialization data in db.
  - Add validation options to db.
  - Fix image_db2obj() method in backend.
  - Fix tests in data object dist.
+ - Improve option descriptions in initialization data in db.
  - Implement update_person() method in backend.
  - Log type to 50 characters.
  - Rewrite validation to full support in application.
