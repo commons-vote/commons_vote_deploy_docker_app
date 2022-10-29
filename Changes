@@ -6,6 +6,7 @@
  - Implement update_person() method in backend.
  - Fix image_db2obj() method in backend.
  - Fix tests in data object dist.
+ - Rewrite validation to full support in application.
 
 0.07 2022-10-21T18:06:32+02:00
  - Install HTML::String debian package.
