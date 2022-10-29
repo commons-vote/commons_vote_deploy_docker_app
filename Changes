@@ -9,7 +9,8 @@
  - Fix tests in data object dist.
  - Improve option descriptions in initialization data in db.
  - Implement update_person() method in backend.
- - Log type to 50 characters.
+ - Log type to 50 characters in data object.
+ - Log type to 50 characters in db.
  - Rewrite validation to full support in application.
 
 0.07 2022-10-21T18:06:32+02:00
