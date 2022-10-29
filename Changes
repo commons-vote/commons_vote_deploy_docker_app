@@ -6,6 +6,7 @@
  - Fix image_db2obj() method in backend.
  - Fix tests in data object dist.
  - Implement update_person() method in backend.
+ - Log type to 50 characters.
  - Rewrite validation to full support in application.
 
 0.07 2022-10-21T18:06:32+02:00
