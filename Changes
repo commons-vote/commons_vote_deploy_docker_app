@@ -3,6 +3,8 @@
  - Add data object for competition validations.
  - Add DB tables for competition validations.
  - Add validation options to db.
+ - Implement update_person() method in backend.
+ - Fix image_db2obj() method in backend.
  - Fix tests in data object dist.
 
 0.07 2022-10-21T18:06:32+02:00
