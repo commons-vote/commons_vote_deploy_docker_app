@@ -1,4 +1,4 @@
-0.09
+0.09 2022-10-30T14:44:32+01:00
  - Add id to PersonRole data object.
  - Add person_roles() method to Competition data object.
  - Add roles to backend.
