@@ -1,5 +1,6 @@
 0.09
  - Fix update_person to better version in backend.
+ - Implement user_exists() method to fetcher.
 
 0.08 2022-10-29T16:42:49+02:00
  - Add count_competition_sections() method to backend.
