@@ -2,6 +2,7 @@
  - Fix update_person to better version in backend.
  - Fix constraints in person_role table.
  - Implement user_exists() method to fetcher.
+ - New initialization data for db.
  - wm_username is required for commons.vote app.
 
 0.08 2022-10-29T16:42:49+02:00
