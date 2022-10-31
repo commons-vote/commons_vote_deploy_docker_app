@@ -2,6 +2,7 @@
  - Add validation_bad table to db.
  - Add ValidationBad data object.
  - Fix requirements for PersonRole data object.
+ - Handle validation_bad in backend.
  - Save bad validations to db in validation activity.
 
 0.09 2022-10-30T14:44:32+01:00
