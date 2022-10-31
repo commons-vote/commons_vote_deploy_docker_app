@@ -1,4 +1,6 @@
 0.10
+ - Add ValidationBad data object.
+ - Fix requirements for PersonRole data object.
 
 0.09 2022-10-30T14:44:32+01:00
  - Add id to PersonRole data object.
