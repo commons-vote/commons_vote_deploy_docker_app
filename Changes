@@ -1,4 +1,8 @@
 0.11
+ - Add log types for new validations in initialization data.
+ - Add new validations in initialization data.
+ - Rewrite table name for voting types in initialization data.
+ - Rename option for smaller dimension in initialization data.
 
 0.10 2022-10-31T11:40:44+01:00
  - Add count_validation_bad() method in backend.
