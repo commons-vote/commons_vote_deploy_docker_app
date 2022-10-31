@@ -1,4 +1,5 @@
 0.10
+ - Add validation_bad table to db.
  - Add ValidationBad data object.
  - Fix requirements for PersonRole data object.
 
