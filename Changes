@@ -1,4 +1,4 @@
-0.10
+0.10 2022-10-31T11:40:44+01:00
  - Add count_validation_bad() method in backend.
  - Add validation_bad table to db.
  - Add ValidationBad data object.
