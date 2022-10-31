@@ -6,6 +6,7 @@
  - Rename option for smaller dimension in initialization data.
  - Rewrite table name for voting types in initialization data.
  - Rewrite vote_type to voting_type in schema.
+ - Update backend.
 
 0.10 2022-10-31T11:40:44+01:00
  - Add count_validation_bad() method in backend.
