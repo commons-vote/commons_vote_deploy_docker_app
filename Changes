@@ -6,6 +6,7 @@
  - Rename option for smaller dimension in initialization data.
  - Rewrite table name for voting types in initialization data.
  - Rewrite vote_type to voting_type in schema.
+ - Update activities.
  - Update backend.
  - Update data objects.
 
