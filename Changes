@@ -1,4 +1,4 @@
-0.12
+0.12 2022-11-03T04:31:56+01:00
  - Add section to ValidationBad object.
  - Add section_id to validation_bad DB table.
  - Add Wikibase::Datatype::Query class.
