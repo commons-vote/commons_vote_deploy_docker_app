@@ -2,6 +2,7 @@
  - Add section to ValidationBad object.
  - Add section_id to validation_bad DB table.
  - Add Wikibase::Datatype::Query class.
+ - Update activities.
  - Update backend.
 
 0.11 2022-11-01T01:12:35+01:00
