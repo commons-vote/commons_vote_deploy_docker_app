@@ -37,6 +37,7 @@ RUN cpanm perl_modules/Commons-Vote-Fetcher-0.01.tar.gz
 RUN cpanm perl_modules/Schema-Commons-Vote-0.01.tar.gz
 RUN cpanm perl_modules/Backend-DB-0.01.tar.gz
 RUN cpanm perl_modules/Backend-DB-Commons-Vote-0.01.tar.gz
+RUN cpanm perl_modules/Wikibase-Datatype-Query-0.01.tar.gz
 RUN cpanm perl_modules/Activity-Commons-Vote-0.01.tar.gz
 RUN cpanm perl_modules/Schema-Data-Commons-Vote-Plugin-Theme-0.01.tar.gz
 RUN cpanm perl_modules/Schema-Data-Commons-Vote-Plugin-CWPTheme-0.01.tar.gz

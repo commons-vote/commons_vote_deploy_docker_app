@@ -1,4 +1,5 @@
 0.12
+ - Add Wikibase::Datatype::Query class.
 
 0.11 2022-11-01T01:12:35+01:00
  - Add CompetitionVoting table in schema.
