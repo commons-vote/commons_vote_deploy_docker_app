@@ -1,4 +1,7 @@
 0.15
+ - Add status db table.
+ - Add status to competition (db).
+ - Add unique keys for some tables (db).
  - Update activities.
  - Update backend.
 
