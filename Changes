@@ -1,4 +1,5 @@
 0.15
+ - Add init data for status table.
  - Add status db table.
  - Add status to competition (db).
  - Add unique keys for some tables (db).
